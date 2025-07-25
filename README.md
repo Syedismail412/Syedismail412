@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Ismail</h1>
 <h3 align="center">A passionate data analyst</h3>
+<img width="283" height="178" alt="images" src="https://github.com/user-attachments/assets/4abc5e44-728d-47d4-89c3-483f43d7cc3a" />
 
 - 🌱 I’m currently learning **Data Analytics**
 
