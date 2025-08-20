@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Ismail</h1>
-<h3 align="center">A passionate data analyst</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&pause=1000&color=4FAE4EEE&width=435&lines=A+passionate+Data+analyst" alt="Typing SVG" /></a>
+<img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 - 🌱 I’m currently learning **Data Analytics**
 
